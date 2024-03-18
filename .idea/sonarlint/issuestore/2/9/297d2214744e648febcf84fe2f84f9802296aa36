@@ -1,0 +1,12 @@
+
+^
+java:S1700"Rename field "numeros"(÷ùúÿÿÿÿ8ÿ“†ÿâ1J$241e7898-7d9f-4cdd-89b6-748aa2f72b18
+•	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûıÜ‹şÿÿÿÿ8§”†ÿâ1J$e5ac3593-b836-4b7a-bc70-3576b58b67d4
+•	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô†€êşÿÿÿÿ8ª”†ÿâ1J$3678a251-206f-4092-bc94-1aa7abd53045
+•	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ëøşÿÿÿÿ8¬”†ÿâ1J$74ee52ce-7037-4811-bb7b-144aeabc5993
+	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¾Î8°”†ÿâ1J$6cb19ed6-3f3b-4830-9e3a-98f4303368ba
+	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÿŞ8²”†ÿâ1J$fca2ef3b-4b3b-43be-9ce0-6f512e57cc9c
+•	java:S100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³´Ã‡øÿÿÿÿ8¶”†ÿâ1J$6c3af358-ee50-43fc-99f5-18c5e0ca39bd
+m	java:S106K"+Replace this use of System.out by a logger.(·øĞÇ8¹”†ÿâ1J$aa927129-c7d9-4a35-865e-56018ba8e652
+•	java:S100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³´Ã‡øÿÿÿÿ8»”†ÿâ1J$44c3e0d3-ca16-4877-a876-ab2c475d2a7e
+l	java:S106b"+Replace this use of System.out by a logger.(Üö·D8¿”†ÿâ1J$093db8a2-af51-44b4-b39b-02a36f678411

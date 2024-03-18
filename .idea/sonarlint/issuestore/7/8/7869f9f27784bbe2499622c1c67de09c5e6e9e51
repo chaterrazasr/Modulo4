@@ -1,0 +1,21 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚ÑÒ”úÿÿÿÿ8ÿûØ¨Ü1J$3e65ba98-6a86-415a-abdb-7a11b1272b9b
+r	java:S106"+Replace this use of System.out by a logger.(ë•­ûşÿÿÿÿ8¨ÿ§Ü1J$6268ffb1-4ba9-409a-ae9a-8fc57fa43fef
+m	java:S106"+Replace this use of System.out by a logger.(ÿĞ’µ8¨ÿ§Ü1J$0f15dc68-5e94-453a-b652-a395239b0ca8
+r	java:S106"+Replace this use of System.out by a logger.(ıùıäÿÿÿÿÿ8œ¨ÿ§Ü1J$00e45653-3805-4ad2-b9fc-56373737b650
+m	java:S106"+Replace this use of System.out by a logger.(·–“Â8œ¨ÿ§Ü1J$056a3ded-e612-439d-ae90-f50d99570804
+r	java:S106T"+Replace this use of System.out by a logger.(Ø‰Äåüÿÿÿÿ8ÎÁ±¨Ü1J$bb7492d4-77c6-4cbf-9a77-42599b89cd25
+r	java:S106V"+Replace this use of System.out by a logger.(á°äşÿÿÿÿ8Ö½Ï¨Ü1J$71aeb3ff-d0cd-4be4-ad0b-489d9741b0ab
+|
+java:S1854d":Remove this useless assignment to local variable "random".(¼İÅf8’¨ÿ§Ü1J$1eb6d8c6-f03d-463b-8f6f-3cb06f56b91b
+`
+java:S2119d"Save and re-use this "Random".(¼İÅf8¦ª£Àİ1J$09ab4215-4684-4e3c-b0a9-f7a61ff24580
+m
+java:S1481d"+Remove this unused "random" local variable.(¼İÅf8§ª£Àİ1J$26da1234-e120-42d7-a9fc-c9bc5612c7fa
+f
+java:S2119u"Save and re-use this "Random".(£èı–ıÿÿÿÿ8­ª£Àİ1J$713f875b-643c-43c1-8c36-b762d900adc2
+m	java:S106|"+Replace this use of System.out by a logger.(àèÙ8ØĞ¨Ü1J$7a19fc1d-b7a6-41cb-94f2-f3dc2abf70a0
+n	java:S106…"+Replace this use of System.out by a logger.(ñÿıı8ÙĞ¨Ü1J$0f4ac067-496b-4bac-8fb1-f23015c5f3bc
+n	java:S106ˆ"+Replace this use of System.out by a logger.(ÓÇì¬8§“Ô¨Ü1J$793929b0-d1b7-44f1-8480-09257bb2210e
+n	java:S106‹"+Replace this use of System.out by a logger.(¯å’ä8Õ°ß¨Ü1J$0b15575a-588f-4477-999b-46a981b2e42d
+s	java:S106œ"+Replace this use of System.out by a logger.(÷ø£şÿÿÿÿ8×°ß¨Ü1J$ae6aaa43-1eed-4a2b-8a5e-5bc5a4bd6c61

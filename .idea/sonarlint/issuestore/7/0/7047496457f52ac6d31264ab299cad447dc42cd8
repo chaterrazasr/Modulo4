@@ -1,0 +1,15 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì´Òâ8âúË¢ä1J$6e154c6f-abe4-44b0-a625-9d486d7a0ad7
+š
+java:S3776<"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ïÌ˜ÿÿÿÿÿ8¾ì‚¤ä1J$a47ae87f-a055-4ebb-860b-827b489fa212
+r	java:S106d"+Replace this use of System.out by a logger.(ÎÒ°¬øÿÿÿÿ8ë€È£ä1J$9946e389-287e-40bf-ba48-f247441347ea
+r	java:S106h"+Replace this use of System.out by a logger.(öÿÛ¾ÿÿÿÿÿ8êÙ…¤ä1J$a5a62ee9-8f2d-4c0d-8a24-7db9ab2e16ba
+r	java:S106l"+Replace this use of System.out by a logger.(öÿÛ¾ÿÿÿÿÿ8ëÙ…¤ä1J$af1776e7-44a6-49b4-be1b-0dee0e952cd2
+u
+java:S1068"-Remove this unused "MAX_FOTOS" private field.(¡Ø—Šÿÿÿÿÿ8Æì‚¤ä1J$cbe38964-7088-45b5-a695-3ed848b4b230
+
+java:S1068"ERemove this unused "CARACTER_ESQUINA_SUPERIOR_DERECHA" private field.(ªùÀ¤ûÿÿÿÿ8Çì‚¤ä1J$a3dc4b30-57f2-43e5-a142-f389389a7949
+
+java:S1068"GRemove this unused "CARACTER_ESQUINA_INFERIOR_IZQUIERDA" private field.(€ƒºÎùÿÿÿÿ8Çì‚¤ä1J$ee22eaa2-a345-463f-b925-e055f0d6ff46
+
+java:S1068"ERemove this unused "CARACTER_ESQUINA_INFERIOR_DERECHA" private field.(àˆ¶’ıÿÿÿÿ8Çì‚¤ä1J$5dc19c99-774b-473c-8d88-149f74e3fb9d
